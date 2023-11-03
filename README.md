@@ -36,3 +36,5 @@ sudo rm -rf /home/rob/Data3/docker-data
 Wow ... now its at 350gb free! Damn!
 
 And once again docker spins up just fine, which is good, but yeah, I want to get this to work! Primary drive is still at 86gb free.
+
+11:48am Gonna try [these](https://docs.docker.com/config/daemon/) directions ... they are similar to what [chatgpt](https://chat.openai.com/c/28f160f1-f1a0-4e5d-ae16-54225479b6e1) suggests and different from [this](https://linuxconfig.org/how-to-move-docker-s-default-var-lib-docker-to-another-directory-on-ubuntu-debian-linux) article which did not work for me.
