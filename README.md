@@ -28,3 +28,11 @@ And for sure, I will be pulling resources from this repo into this repo to keep 
 	total size is 228,559,781,351  speedup is 1.00
 
 Damn that was a lot of data! Spun docker back up WITHOUT changing the default location, and at the least, the hfpt_Oct28 container still works! Nice! So now will change the docker default location to /home/rob/Data3/docker-data and see if it works.
+
+11:03am Nope! New location does not work ... sigh ... gonna whack everything currently in /home/rob/Data3/docker-data ... this drive is currently at 119gb free ... gonna run ...
+
+sudo rm -rf /home/rob/Data3/docker-data 
+
+Wow ... now its at 350gb free! Damn!
+
+And once again docker spins up just fine, which is good, but yeah, I want to get this to work! Primary drive is still at 86gb free.
