@@ -12,7 +12,11 @@ Moved the docker images and containers folder from /home/rob/Data3/docker-data t
 
 9:41am Pulling down 'mistralai/Mistral-7B-v0.1' because they claim to be more accurate than llama2 13b ...
 
+[MISTRALAI_](https://mistral.ai/)
+
 3:56pm ran a few simple tests of Mistral ...
+
+4:31pm The QuickStart.ipynb notebook from the [FaceBook LLama Recipies](https://github.com/facebookresearch/llama-recipes/tree/main) repo cannot run by itself, it has to be run from the repo. So I am going to run this notebook from the downloaded repo, then will provide some updates to what happened here, mkay? ... ;)
 
 ## Friday, November 3, 2023
 
