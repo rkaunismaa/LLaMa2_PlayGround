@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Sunday, November 5, 2023
+
+5:00am Continuing to mess around with LLama ...
+
 ## Saturday, November 4, 2023
 
 Moved the docker images and containers folder from /home/rob/Data3/docker-data to /home/rob/Data2/docker-data ... and now disk io is just as fast as it was before. Nice! ... on /home/rob/Data3/docker-data it was much slower ... 
