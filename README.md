@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Monday, November 6, 2023
+
+Nice! Got that quickstart.ipynb to run!
+
 ## Sunday, November 5, 2023
 
 5:00am Continuing to mess around with LLama ...
