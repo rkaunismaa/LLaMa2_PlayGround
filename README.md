@@ -10,6 +10,8 @@ docker container start hfpt_Oct28
 
 Nice! Got that quickstart.ipynb to run!
 
+1:35pm Running quickstart.ipynb using the 'meta-llama/Llama-2-13b-hf' model places a huge load on the 4090. 23,734MiB of VRAM, typically training within the 98% threshold ... damn!
+
 ## Sunday, November 5, 2023
 
 5:00am Continuing to mess around with LLama ...
