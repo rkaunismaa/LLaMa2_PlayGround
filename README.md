@@ -6,6 +6,12 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Tuesday, November 7, 2023
+
+10:14am ran another test run of 'meta-llama/Llama-2-13b-hf'.
+
+Now, on a slightly different path, I want to try messing with [Mistral](https://docs.mistral.ai/quickstart/)
+
 ## Monday, November 6, 2023
 
 Nice! Got that quickstart.ipynb to run!
