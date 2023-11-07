@@ -12,6 +12,10 @@ docker container start hfpt_Oct28
 
 Now, on a slightly different path, I want to try messing with [Mistral](https://docs.mistral.ai/quickstart/)
 
+11:23am Got the classifier.ipynb notebook to run! Nice!
+
+3:16pm This repo is evolving into an exploration of fine tuning large language models locally on the 4090. I am beginning to further explore [HuggingFace Parameter Efficient Fine Tuning](https://huggingface.co/docs/peft/index) to better understand what it is, how it works and how to use it.
+
 ## Monday, November 6, 2023
 
 Nice! Got that quickstart.ipynb to run!
