@@ -1,3 +1,8 @@
 tmp/
 
 PEFT/vit-base-patch16-224-in21k-finetuned-lora-food101
+
+PEFT/mit-b0-scene-parse-150-lora/
+
+PEFT/segformer-scene-parse-150-lora/
+
