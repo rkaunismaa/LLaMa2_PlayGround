@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Wednesday, November 8, 2023
+
+Continuing to work through the PEFT examples found at [HuggingFace Parameter Efficient Fine Tuning](https://huggingface.co/docs/peft/index)
+
 ## Tuesday, November 7, 2023
 
 10:14am ran another test run of 'meta-llama/Llama-2-13b-hf'.
