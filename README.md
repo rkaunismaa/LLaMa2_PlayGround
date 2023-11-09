@@ -10,6 +10,8 @@ docker container start hfpt_Oct28
 
 Continuing to work through the PEFT examples found at [HuggingFace Parameter Efficient Fine Tuning](https://huggingface.co/docs/peft/index)
 
+I've been trying to work through [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral) with some success ... meh for now.
+
 ## Tuesday, November 7, 2023
 
 10:14am ran another test run of 'meta-llama/Llama-2-13b-hf'.
