@@ -6,6 +6,8 @@ PEFT/mit-b0-scene-parse-150-lora/
 
 PEFT/segformer-scene-parse-150-lora/
 
+PEFT/roberta-large-lora-token-classification/
+
 PEFT/wandb/
 
 
