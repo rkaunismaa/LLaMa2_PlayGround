@@ -6,6 +6,12 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Thursday, November 9, 2023
+
+More notebooks run today. 
+
+Tomorrow I want to work on the StructuredLLama.ipynb notebook.
+
 ## Wednesday, November 8, 2023
 
 Continuing to work through the PEFT examples found at [HuggingFace Parameter Efficient Fine Tuning](https://huggingface.co/docs/peft/index)
