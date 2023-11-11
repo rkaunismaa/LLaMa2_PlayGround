@@ -16,4 +16,18 @@ Another resource to consider will be the youtube channel of James Briggs ...
 
 https://www.youtube.com/@jamesbriggs/videos
 
+Damn! The release cycle for langchain is insane! Almost every day, something new is released!
+
+Hmm had to downgrade the version of openai to ...
+
+pip install openai==0.28.1
+
+... to get it to run, but then immediately ran into rate limits! Sigh ... 
+
+Hmm so yeah, I got to start paying for openai to continue using the api in langchain ... sigh.
+
+Hmm at this point right now, I want to see how to use langchain with either Llama2 or Mistral.
+
+
+
 
