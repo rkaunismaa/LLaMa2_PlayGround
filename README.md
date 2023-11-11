@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Saturday, November 11, 2023
+
+Gonna pivot somewhat to dive into langchain. Creating a LangChain folder for these resources.
+
 ## Thursday, November 9, 2023
 
 More notebooks run today. 
