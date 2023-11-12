@@ -28,6 +28,20 @@ Hmm so yeah, I got to start paying for openai to continue using the api in langc
 
 Hmm at this point right now, I want to see how to use langchain with either Llama2 or Mistral.
 
+Hmm seems like I need to run stuff with ollama ... 
+
+https://ollama.ai/download
+
+... gonna grab a docker image ...
+
+https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image
+
+docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+
+docker exec -it ollama ollama run llama2
+
+And then to use it with langchain, look [here](https://python.langchain.com/docs/integrations/chat/ollama)
+
 
 
 
