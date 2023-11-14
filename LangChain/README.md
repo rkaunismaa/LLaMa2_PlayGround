@@ -4,6 +4,10 @@
 
 Got a simple langchain and llama2 page to work! Nice! Llama_2_+_Langchain_Q&A.ipynb
 
+Damn! James Briggs has some real good videos! 
+
+https://www.youtube.com/@jamesbriggs/videos
+
 ## Saturday, November 11, 2023
 
 Beginning a dive into langchain. This required I install openai.
