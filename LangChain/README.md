@@ -1,5 +1,9 @@
 # LangChain Investigation
 
+## Tuesday, November 14, 2023
+
+Got a simple langchain and llama2 page to work! Nice! Llama_2_+_Langchain_Q&A.ipynb
+
 ## Saturday, November 11, 2023
 
 Beginning a dive into langchain. This required I install openai.
