@@ -29,6 +29,8 @@ The quantized models from [TheBloke](https://huggingface.co/TheBloke)
 
  Dang! I ran out of VRAM trying to do the above. I think I need to find an example notebook of fine-tuning some 3B LLama model ...
 
+ Nice! Ok, got the Mistral/mistral-finetune.ipynb notebook running locally to train this model!
+
 
 ## Saturday, November 11, 2023
 
