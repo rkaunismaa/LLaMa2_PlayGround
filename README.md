@@ -31,6 +31,8 @@ The quantized models from [TheBloke](https://huggingface.co/TheBloke)
 
  Nice! Ok, got the Mistral/mistral-finetune.ipynb notebook running locally to train this model!
 
+ [Ludwig](https://pypi.org/project/ludwig/) looks interesting.
+
 
 ## Saturday, November 11, 2023
 
