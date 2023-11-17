@@ -19,6 +19,8 @@ The quantized models from [TheBloke](https://huggingface.co/TheBloke)
 
  ... and now have 373GB free ... nice!
 
+ Gonna focus on [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot) in conjunction with CodeLlama 34B ... 
+
 ## Saturday, November 11, 2023
 
 Gonna pivot somewhat to dive into langchain. Creating a LangChain folder for these resources.
