@@ -21,6 +21,13 @@ The quantized models from [TheBloke](https://huggingface.co/TheBloke)
 
  Gonna focus on [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot) in conjunction with CodeLlama 34B ... 
 
+ [Learning how GPT-3 instruct models were (most likely) trained](https://towardsdatascience.com/learning-how-gpt-3-instruct-models-were-most-likely-trained-3eb61e0f4169)
+
+ "Instruction tuning is described as the task of fine-tuning a pre-trained language model (LM) to improve its ability to respond to natural language instructions. The idea is that by using supervision to teach an LM to perform tasks described via instructions, it will learn to follow instructions and do so even for unseen tasks."
+
+ [A Beginner’s Guide to Fine-Tuning Mistral 7B Instruct Model](https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-mistral-7b-instruct-model-0f39647b20fe)
+
+
 ## Saturday, November 11, 2023
 
 Gonna pivot somewhat to dive into langchain. Creating a LangChain folder for these resources.
