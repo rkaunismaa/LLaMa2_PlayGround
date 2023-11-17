@@ -6,6 +6,19 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Friday, November 17, 2023
+
+The quantized models from [TheBloke](https://huggingface.co/TheBloke) 
+ on HuggingFace are awesome! For now, this guy is gonna be my goto for any models I want to get and play with!
+
+ Gonna kill EVERYTHING from /home/rob/Data2/huggingface/transformers just to see how much space it frees up from the hfpt_Oct28 container. 
+
+ Start with 265GB free on the 1TB nvme drive ... then ran ...
+
+ rm /home/rob/Data2/huggingface/transformers 
+
+ ... and now have 373GB free ... nice!
+
 ## Saturday, November 11, 2023
 
 Gonna pivot somewhat to dive into langchain. Creating a LangChain folder for these resources.
