@@ -27,6 +27,8 @@ The quantized models from [TheBloke](https://huggingface.co/TheBloke)
 
  [A Beginner’s Guide to Fine-Tuning Mistral 7B Instruct Model](https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-mistral-7b-instruct-model-0f39647b20fe)
 
+ Dang! I ran out of VRAM trying to do the above. I think I need to find an example notebook of fine-tuning some 3B LLama model ...
+
 
 ## Saturday, November 11, 2023
 
