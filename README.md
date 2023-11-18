@@ -27,6 +27,8 @@ trainer = SFTTrainer(
 
 Gonna try this on the other notebooks that were running out of VRAM during training. 
 
+[Supervised Fine-tuning Trainer](https://huggingface.co/docs/trl/sft_trainer)
+
 ## Friday, November 17, 2023
 
 The quantized models from [TheBloke](https://huggingface.co/TheBloke) 
