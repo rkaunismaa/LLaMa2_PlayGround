@@ -10,6 +10,23 @@ docker container start hfpt_Oct28
 
 [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2)
 
+Playing with the Fine_tune_Llama_2_in_Google_Colab.ipynb notebook.
+
+Nice! So kinda just figured out playing with the max_seq_length has a dramatic affect on the memory usage duing training.
+
+trainer = SFTTrainer(
+    model=model,
+    train_dataset=dataset,
+    peft_config=peft_config,
+    dataset_text_field="text",
+    max_seq_length=max_seq_length,  <= play with this value =>
+    tokenizer=tokenizer,
+    args=training_arguments,
+    packing=packing,
+)
+
+Gonna try this on the other notebooks that were running out of VRAM during training. 
+
 ## Friday, November 17, 2023
 
 The quantized models from [TheBloke](https://huggingface.co/TheBloke) 
