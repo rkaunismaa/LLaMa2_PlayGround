@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Saturday, November 18, 2023
+
+[LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2)
+
 ## Friday, November 17, 2023
 
 The quantized models from [TheBloke](https://huggingface.co/TheBloke) 
