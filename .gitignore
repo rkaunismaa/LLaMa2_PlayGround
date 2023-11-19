@@ -28,6 +28,11 @@ llama-2-7b-chat-guanaco/
 Mistral/merged_model/
 Mistral/mistralai-Code-Instruct/
 
+data/
+llama2-7b-journal-finetune/
+
+
+
 
 
 
