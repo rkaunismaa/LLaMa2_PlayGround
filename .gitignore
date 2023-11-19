@@ -31,6 +31,8 @@ Mistral/mistralai-Code-Instruct/
 data/
 llama2-7b-journal-finetune/
 
+logs/
+
 
 
 
