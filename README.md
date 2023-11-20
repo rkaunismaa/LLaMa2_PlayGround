@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Monday, November 20, 2023
+
+Paid for OpenAI, then started running the pinecone notebooks which use openai ... damn is openai ever fast!
+
 ## Saturday, November 18, 2023
 
 [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2)
