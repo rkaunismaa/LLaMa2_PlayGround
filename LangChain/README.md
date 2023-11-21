@@ -1,5 +1,11 @@
 # LangChain Investigation
 
+## Tuesday, November 21, 2023
+
+Keeping an eye on the running costs of using OpenAI. Yeah it adds up, and I really want to focus on doing everything locally! So no OpenAI or Pinecode stuff at all.
+
+Guessing it will be some variation of LLama2 with Faiss or Chroma or Milva
+
 ## Tuesday, November 14, 2023
 
 Got a simple langchain and llama2 page to work! Nice! Llama_2_+_Langchain_Q&A.ipynb
