@@ -4,7 +4,13 @@
 
 Keeping an eye on the running costs of using OpenAI. Yeah it adds up, and I really want to focus on doing everything locally! So no OpenAI or Pinecode stuff at all.
 
-Guessing it will be some variation of LLama2 with Faiss or Chroma or Milva
+Guessing it will be some variation of LLama2 with Faiss or Chroma or Milva.
+
+To copy files out of the hfpt_Nov20 container, below is a working example of this ...
+
+docker cp 9ef7ecd7959f:/root/.cache/huggingface/hub/models--Salesforce--blip-image-captioning-large  /home/rob/Data3/huggingface/transformers
+
+... notice the "9ef7ecd7959f:/root/.cache ..." 
 
 ## Tuesday, November 14, 2023
 
