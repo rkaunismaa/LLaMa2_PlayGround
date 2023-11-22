@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Tuesday, November 21, 2023
+
+Switched to the docker container hfpt_Nov20
+
 ## Monday, November 20, 2023
 
 Paid for OpenAI, then started running the pinecone notebooks which use openai ... damn is openai ever fast!
