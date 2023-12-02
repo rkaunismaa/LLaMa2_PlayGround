@@ -38,6 +38,8 @@ llama2-13b-journal-finetune/
 LangChain/rtdocs/
 LangChain/train.jsonl
 
+vectorstore/
+
 
 
 
