@@ -40,6 +40,8 @@ LangChain/train.jsonl
 
 vectorstore/
 
+GregKamradt/.chroma/
+
 
 
 
