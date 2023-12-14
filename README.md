@@ -6,6 +6,22 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Thursday, December 14, 2023
+
+Today I torched all hfpt images and containers, pulled down the newest 'docker pull huggingface/transformers-pytorch-gpu', built a new hfpt image, spun up a new hfpt container, and now I am working through the notebook 'quickstart_13B-HF_Test2.ipynb', and getting this to spin up. These are the packages I had to install, in the following order:
+
+1) pip install accelerate
+2) pip install bitsandbytes
+3) pip install py7zr
+4) pip install peft
+5) pip install wandb
+
+The default huggingface folder is now '/root/.cache/huggingface/hub'
+
+Also, we can't run the training until we have a hugging face token in this container, so we need to login first, before running the remainder of the code. The same with wandb ...
+
+Annddd code which worked before now fails, because of CUDA Out of Memory errors! Sigh ... 
+
 ## Tuesday, November 21, 2023
 
 Switched to the docker container hfpt_Nov20
