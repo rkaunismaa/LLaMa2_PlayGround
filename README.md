@@ -12,6 +12,8 @@ docker container start hfpt_Oct28
 
 The [E2E Cloud Blog](https://www.e2enetworks.com/blog) has many excellent posts.
 
+Today I will start using Haystack, and I am also using Cody as my coding assistant!
+
 ## Thursday, December 14, 2023
 
 Today I torched all hfpt images and containers, pulled down the newest 'docker pull huggingface/transformers-pytorch-gpu', built a new hfpt image, spun up a new hfpt container, and now I am working through the notebook 'quickstart_13B-HF_Test2.ipynb', and getting this to spin up. These are the packages I had to install, in the following order:
