@@ -6,6 +6,14 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Saturday, December 16, 2023
+
+Installed 'pip install farm-haystack[inference]' this morning. Why does it downgrade transformers??
+
+OK, so that was the wrong version of haystack to install. I uninstalled that, then ran 'pip install haystack-ai', and now the code works. 
+
+But be aware this version of haystack is 'Haystack 2.0-Beta, an unstable version of what will eventually become Haystack 2.0' 
+
 ## Friday, December 15, 2023
 
 [LLMDataHub: Awesome Datasets for LLM Training](https://github.com/Zjh-819/LLMDataHub)
