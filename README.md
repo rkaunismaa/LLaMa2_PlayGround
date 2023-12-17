@@ -6,6 +6,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Sunday, December 17, 2023
+
+Yesterday, I uninstalled haystack-ai, then ran 'pip install farm-haystack', and this is the version I have been using for the past 24 hours.
+
 ## Saturday, December 16, 2023
 
 Installed 'pip install farm-haystack[inference]' this morning. Why does it downgrade transformers??
