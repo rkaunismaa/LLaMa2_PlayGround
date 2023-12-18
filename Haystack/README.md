@@ -1,3 +1,7 @@
+#### Monday, December 18, 2023
+
+Today, I am going to uninstall Haystack 1.0. and install Haystack 2.0. ... I want to try running  [Guide to Using Zephyr Models to Generate Answers on Your Data](https://haystack.deepset.ai/blog/guide-to-using-zephyr-with-haystack2)
+
 #### Saturday, December 16, 2023
 
 Definitely some confusion about which version of Haystack to install.
