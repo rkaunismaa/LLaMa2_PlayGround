@@ -1,5 +1,11 @@
 # LangChain Investigation
 
+## Monday, December 18, 2023
+
+Getting back to this ... I think the best resource to follow is the [LLama2 repo](https://github.com/jamesbriggs/llama_2) (wow! Cody sent that to me! I did not type that in!) ... hah! turns out this repo does not exist, and the James Briggs guy is not the same guy from the youtube videos! ... nice try cody!
+
+[Hugging Face Local Pipelines](https://python.langchain.com/docs/integrations/llms/huggingface_pipelines)
+
 ## Tuesday, November 21, 2023
 
 Keeping an eye on the running costs of using OpenAI. Yeah it adds up, and I really want to focus on doing everything locally! So no OpenAI or Pinecode stuff at all.

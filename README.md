@@ -11,6 +11,27 @@ docker container start hfpt_Oct28
 1) pip uninstall farm-haystack
 2) pip install haystack-ai
 
+Some important notes copied from 'YT_LangChain_Running_HuggingFace_Models_Locally.ipynb' in the Sam Witteveen folder.
+
+* This loads the model to the CPU ... 
+* model = AutoModelForCausalLM.from_pretrained(model_id)
+
+* This works! VRAM 896 MiB
+* model = AutoModelForCausalLM.from_pretrained(model_id, load_in_8bit=True)
+
+* This works! VRAM 1780 MiB
+* model = AutoModelForCausalLM.from_pretrained(model_id, device_map='cuda')
+
+* This works! VRAM 1780 MiB
+* model = AutoModelForCausalLM.from_pretrained(model_id, device_map=device)
+
+* This loads the model to CPU.
+* model = AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=torch.float16)
+
+* This DOES work! ... 896 MiB VRAM
+* model = AutoModelForCausalLM.from_pretrained(model_id, load_in_8bit=True, torch_dtype=torch.float16)
+
+
 ## Sunday, December 17, 2023
 
 Yesterday, I uninstalled haystack-ai, then ran 'pip install farm-haystack', and this is the version I have been using for the past 24 hours.
