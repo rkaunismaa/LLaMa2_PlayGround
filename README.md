@@ -6,6 +6,11 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Monday, December 18, 2023
+
+1) pip uninstall farm-haystack
+2) pip install haystack-ai
+
 ## Sunday, December 17, 2023
 
 Yesterday, I uninstalled haystack-ai, then ran 'pip install farm-haystack', and this is the version I have been using for the past 24 hours.
