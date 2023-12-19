@@ -19,6 +19,8 @@ docker container start hfpt_Oct28
 5) pip install chromadb==0.3.29 (this version of chromadb is needed to work with sqlite)
 6) pip installlark
 
+The embedding models downloaded in these notebooks are stored in the '/root/.cache/torch/sentence_transformers' folder ... 
+
 ## Monday, December 18, 2023
 
 1) pip uninstall farm-haystack
