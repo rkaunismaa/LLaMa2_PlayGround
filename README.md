@@ -2,9 +2,22 @@
 
 This will be my playground for all things using LLaMa2. 
 
-Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!)
+Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!) This card was installed to KAUWITB on Monday, October 30, 2023.
+
+![4090 FE](images/MondayOctober30_2023_4090FE.png)
 
 docker container start hfpt_Oct28
+
+## Tuesday, December 19, 2023
+
+[BGE on Hugging Face](https://python.langchain.com/docs/integrations/text_embedding/bge_huggingface) are [the best open-source embedding models](https://huggingface.co/spaces/mteb/leaderboard)
+
+1) pip install chromadb
+2) apt update
+3) apt upgrade (this fired in a TON of updates! sure hope it didn't break anything!!)
+4) apt install sqlite
+5) pip install chromadb==0.3.29 (this version of chromadb is needed to work with sqlite)
+6) pip installlark
 
 ## Monday, December 18, 2023
 
