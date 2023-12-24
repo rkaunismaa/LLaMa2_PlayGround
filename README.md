@@ -8,6 +8,14 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Sunday, December 24, 2023
+
+Pulled down "microsoft/phi-2" in Phi2/FirstTest.ipynb
+
+## Friday, December 22, 2023
+
+This repo is getting really bloated. I need to keep track in here what I do each day so that I can get back to it later.
+
 ## Tuesday, December 19, 2023
 
 [BGE on Hugging Face](https://python.langchain.com/docs/integrations/text_embedding/bge_huggingface) are [the best open-source embedding models](https://huggingface.co/spaces/mteb/leaderboard)
