@@ -241,5 +241,7 @@ Just a reminder that sentence_transformers get loaded into the '/root/.cache/tor
 
 https://github.com/mlabonne/llm-course ... this repo has a lot of helpful links worth checking out ... 
 
+Hmm digging into this repo points to [this blog](https://mlabonne.github.io/blog/) which also looks real good. Turns out this guy Maxime Labonne wrote the book 'Hands On Graph Neural Networks using Python'. And yeah, I just pulled down that book and am going to read it ...
+
 
 
