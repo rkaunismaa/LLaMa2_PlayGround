@@ -235,5 +235,9 @@ And once again docker spins up just fine, which is good, but yeah, I want to get
 
 5:31pm So tried everything again but using the instructions found at [Docker daemon configuration overview](https://docs.docker.com/config/daemon/) and this DOES work! Great!
 
+## Monday, January 8, 2024
+
+Just a reminder that sentence_transformers get loaded into the '/root/.cache/torch/sentence_transformers' folder ...
+
 
 
