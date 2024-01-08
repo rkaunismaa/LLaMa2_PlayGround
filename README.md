@@ -239,5 +239,7 @@ And once again docker spins up just fine, which is good, but yeah, I want to get
 
 Just a reminder that sentence_transformers get loaded into the '/root/.cache/torch/sentence_transformers' folder ...
 
+https://github.com/mlabonne/llm-course ... this repo has a lot of helpful links worth checking out ... 
+
 
 
