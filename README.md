@@ -243,5 +243,9 @@ https://github.com/mlabonne/llm-course ... this repo has a lot of helpful links 
 
 Hmm digging into this repo points to [this blog](https://mlabonne.github.io/blog/) which also looks real good. Turns out this guy Maxime Labonne wrote the book 'Hands On Graph Neural Networks using Python'. And yeah, I just pulled down that book and am going to read it ...
 
+## Wednesday, January 10, 2024
+
+Sigh I may have broken chomadb with an install of gradio to hfpt_Dec14 ... 
+
 
 
