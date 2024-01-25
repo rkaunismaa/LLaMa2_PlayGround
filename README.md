@@ -8,6 +8,10 @@ Everything here will be run locally on an RTX 4090 Founders Edition card. (IKR!!
 
 docker container start hfpt_Oct28
 
+## Thursday, January 25, 2024
+
+Gawd it's really frustrating how bloody fragile changes to the environment can break code that was once working!
+
 ## Sunday, December 24, 2023
 
 Pulled down "microsoft/phi-2" in Phi2/FirstTest.ipynb
