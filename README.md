@@ -251,5 +251,13 @@ Hmm digging into this repo points to [this blog](https://mlabonne.github.io/blog
 
 Sigh I may have broken chomadb with an install of gradio to hfpt_Dec14 ... 
 
+## Friday, January 26, 2024
+
+* pip install openai --upgrade
+
+"haystack-ai 2.0.0b3 requires openai<1.0.0, but you have openai 1.10.0 which is incompatible."
+
+* pip uninstall haystack-ai
+
 
 
