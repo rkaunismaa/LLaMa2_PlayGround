@@ -68,6 +68,10 @@ docker exec -it ollama ollama run llama2
 
 And then to use it with langchain, look [here](https://python.langchain.com/docs/integrations/chat/ollama)
 
+## Friday, January 26, 2024
+
+All of the langchain notebooks ending with "_LMStudio" are using LMStudio to sub in for OpenAI.
+
 
 
 
