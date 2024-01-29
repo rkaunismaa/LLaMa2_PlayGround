@@ -37,7 +37,7 @@ llama2-13b-journal-finetune/
 
 LangChain/rtdocs/
 LangChain/train.jsonl
-
+LangChain/counts.pkl
 LangChain/.ipynb_checkpoints/
 
 
