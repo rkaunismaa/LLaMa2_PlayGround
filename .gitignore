@@ -41,6 +41,8 @@ LangChain/counts.pkl
 LangChain/.ipynb_checkpoints/
 LangChain/chroma
 
+LangChain/milvus/data/state_of_the_union.txt
+
 
 vectorstore/
 
