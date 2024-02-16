@@ -6,7 +6,7 @@ Match_Image_Search.ipynb
 
 And off the top of my head, I don't remember which docker container or conda environment I need to run this in!!! 
 
-OK ... so it looks like we run this stuff in the 'hfpt_Dec14' docker container.
+OK ... so it looks like we run this stuff in the 'hfpt_Dec14' docker container. And of course, the 'elasticsearch' and 'kibana' containers are running in the background ... 
 
 #### Friday, January 19, 2024
 
