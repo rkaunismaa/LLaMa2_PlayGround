@@ -1,3 +1,9 @@
+#### Tuesday, February 20, 2024
+
+Yup, more mymatch elastic image similarity search stuff ...
+
+Had to kill the kibana and elasticsearch containers, and restart from scratch ... 
+
 #### Friday, February 16, 2024
 
 Revisiting this work because I want to get back to the Match Image search stuff. 
