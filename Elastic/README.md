@@ -1,3 +1,7 @@
+#### Friday, February 23, 2024
+
+I've been working on the Match Image search stuff.
+
 #### Tuesday, February 20, 2024
 
 Yup, more mymatch elastic image similarity search stuff ...
