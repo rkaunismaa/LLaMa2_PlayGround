@@ -95,6 +95,14 @@ Mistral/.ipynb_checkpoints/
 Elastic/images/
 Elastic/models/
 
+LangChain/milvus/exception/
+LangChain/milvus/object/
+LangChain/milvus/reverse_image_search.csv
+LangChain/milvus/reverse_image_search.zip
+LangChain/milvus/test/
+LangChain/milvus/train/
+
+
 
 
 

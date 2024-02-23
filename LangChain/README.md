@@ -72,6 +72,12 @@ And then to use it with langchain, look [here](https://python.langchain.com/docs
 
 All of the langchain notebooks ending with "_LMStudio" are using LMStudio to sub in for OpenAI.
 
+## Friday, February 23, 2024
+
+Yeah this repo has become a mess. I need to clean it up. ... 
+
+Today got back to some Milvus stuff. The code is found in the LangChain/milvus folder and uses the 'milvus' conda environment.
+
 
 
 
