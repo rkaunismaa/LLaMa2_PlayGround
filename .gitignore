@@ -102,6 +102,10 @@ LangChain/milvus/reverse_image_search.zip
 LangChain/milvus/test/
 LangChain/milvus/train/
 LangChain/milvus/MyMatchImages.csv
+LangChain/milvus/images/
+LangChain/milvus/searchImage/
+
+
 
 
 
